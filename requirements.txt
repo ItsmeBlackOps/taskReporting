@@ -1,0 +1,7 @@
+Flask
+requests
+pytz
+pymysql
+fuzzywuzzy
+python-dateutil
+flask-cors
